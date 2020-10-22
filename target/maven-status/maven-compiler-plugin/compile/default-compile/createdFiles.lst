@@ -1,0 +1,10 @@
+streamnet\Registered.class
+streamnet\Withdrawn.class
+streamnet\MyPage.class
+streamnet\AbstractEvent$1.class
+streamnet\config\kafka\KafkaProcessor.class
+streamnet\AbstractEvent.class
+streamnet\MyPageRepository.class
+streamnet\MyPageViewHandler.class
+streamnet\MyPageApplication.class
+streamnet\PolicyHandler.class
